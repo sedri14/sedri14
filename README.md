@@ -24,7 +24,6 @@ the LSEQ model (a CRDT sequence model) that uses unique identifiers based on a t
 deterministic and conflict-free concurrent insertions and deletions of text. The model preserve a comparable order of elements across replicas.
 
 ## 🌱 I’m currently learning
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=aws)
 ![Microservices](https://img.shields.io/badge/-Microservices-black?style=flat-square&logo=microservices)
 
 
