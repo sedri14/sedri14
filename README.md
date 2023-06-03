@@ -20,7 +20,7 @@ Feel free to connect with me here to learn more about my background and experien
 https://github.com/sedri14/SharedDocBackend
 
 A web app that allows registered users to simultaneously collaborate on text documents in real-time. I implemented
-the LSEQ model (a CRDT sequence model) that uses unique identifiers based on a tree structure and site IDs to support
+the Logoot model (a CRDT sequence model) that uses unique identifiers and site IDs to support
 deterministic and conflict-free concurrent insertions and deletions of text. The model preserve a comparable order of elements across replicas.
 
 ## 🌱 I’m currently learning
