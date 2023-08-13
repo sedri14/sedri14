@@ -24,7 +24,7 @@ the Logoot model (a CRDT sequence model) that uses unique identifiers and site I
 deterministic and conflict-free concurrent insertions and deletions of text. The model preserve a comparable order of elements across replicas.
 
 ## 🌱 I’m currently learning
-![Microservices](https://img.shields.io/badge/-Microservices-black?style=flat-square&logo=microservices)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=microservices)
 
 
 
